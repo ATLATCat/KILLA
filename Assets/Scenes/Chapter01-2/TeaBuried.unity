@@ -2790,81 +2790,81 @@ MonoBehaviour:
     objectArrow: {fileID: 1693982707}
   dialogues:
   - speakerIndex: 1
-    name: "\uBBF8\uCE74\uC5D8\uB77C"
+    name: ???
     dialogue: "\uC12C \uC774\uC6C3\uB4E4\uACFC \uCE5C\uD574\uC84C\uC73C\uBA74 \uD574\uC11C
-      \uC790\uB9AC\uB97C \uB9C8\uB828\uD588\uC5B4."
+      \uC790\uB9AC\uB97C \uB9C8\uB828\uD588\uC5B4. "
   - speakerIndex: 1
-    name: "\uBBF8\uCE74\uC5D8\uB77C"
-    dialogue: "\uB098\uCC98\uB7FC \uC5EC\uAE30 \uC0AC\uB78C\uB4E4\uC774 \uB110 \uB3C4\uC640\uC904\uAC70\uC57C.\r"
+    name: ???
+    dialogue: "\uB098\uCC98\uB7FC \uC5EC\uAE30 \uC0AC\uB78C\uB4E4\uC774 \uB110 \uB3C4\uC640\uC904\uAC70\uC57C. "
   - speakerIndex: 1
-    name: "\uBBF8\uCE74\uC5D8\uB77C"
+    name: ???
     dialogue: "\uB2E4 \uAC19\uC774 \uD2F0\uD0C0\uC784\uC744 \uC990\uACBC\uC73C\uBA74
-      \uD574.\r"
+      \uD574.\r "
   - speakerIndex: 2
-    name: "\uC624\uB85C\uB77C"
-    dialogue: "\uBC18\uAC00\uC6CC\uC694 \uC544\uAC00\uC528."
+    name: ???
+    dialogue: "\uBC18\uAC00\uC6CC\uC694. "
   - speakerIndex: 3
-    name: "\uD76C\uB77C"
+    name: ???
     dialogue: "\uB0B4\uAC00 \uBA3C\uC800 \uC778\uC0AC\uD558\uB824\uACE0 \uD588\uB294\uB370!
       \uCE58\uC0AC\uD574!\r"
   - speakerIndex: 2
-    name: "\uC624\uB85C\uB77C"
+    name: ???
     dialogue: "\uC219\uB140\uB294 \uC791\uC740\uC77C\uC5D0 \uD654\uB97C \uB0B4\uC9C0
-      \uC54A\uB294 \uBC95\uC774\uC57C. \uC78A\uC5C8\uB2C8?"
+      \uC54A\uB294 \uBC95\uC774\uC5D0\uC694. "
   - speakerIndex: 1
-    name: "\uBBF8\uCE74\uC5D8\uB77C"
-    dialogue: "\uC544\uD558\uD558. \uC870\uAE08 \uC18C\uB780\uC2A4\uB7FD\uC9C0?"
+    name: ???
+    dialogue: "\uC544\uD558\uD558. \uC870\uAE08 \uC18C\uB780\uC2A4\uB7FD\uC9C0? "
   - speakerIndex: 0
     name: "\uBC1C\uD560\uB77C"
-    dialogue: "\uC544\uB2C8\uC57C. \uD65C\uAE30\uCC28\uACE0 \uBCF4\uAE30 \uC88B\uB124."
+    dialogue: "\uC544\uB2C8\uC57C. \uD65C\uAE30\uCC28\uACE0 \uBCF4\uAE30 \uC88B\uB124. "
   - speakerIndex: 1
-    name: "\uBBF8\uCE74\uC5D8\uB77C"
-    dialogue: "\uB2E4\uD589\uC774\uC57C."
+    name: ???
+    dialogue: "\uB2E4\uD589\uC774\uC57C. "
   - speakerIndex: 1
-    name: "\uBBF8\uCE74\uC5D8\uB77C"
+    name: ???
     dialogue: "\uC774\uB807\uAC8C \uB2E4 \uBAA8\uC778\uAE40\uC5D0 \uC815\uC2DD\uC73C\uB85C
-      \uC778\uC0AC\uB97C \uD558\uB824\uACE0 \uD574."
+      \uC778\uC0AC\uB97C \uD558\uB824\uACE0 \uD574. "
   - speakerIndex: 0
     name: "\uBC1C\uD560\uB77C"
-    dialogue: "\uC751? \uBB34\uC2A8\uC18C\uB9AC\uC57C?"
+    dialogue: "\uC751? \uBB34\uC2A8\uC18C\uB9AC\uC57C? "
   - speakerIndex: 1
-    name: "\uBBF8\uCE74\uC5D8\uB77C"
+    name: ???
     dialogue: "\uB108\uB791 \uB098, \uC544\uC9C1\uAE4C\uC9C0 \uC11C\uB85C \uC774\uB984\uB3C4
-      \uBAA8\uB978 \uCC44\uB85C \uD558\uB8E8\uB97C \uBCF4\uB0B8\uAC70 \uC54C\uC544?"
+      \uBAA8\uB978 \uCC44\uB85C \uD558\uB8E8\uB97C \uBCF4\uB0B8\uAC70 \uC54C\uC544? "
   - speakerIndex: 0
     name: "\uBC1C\uD560\uB77C"
-    dialogue: "\uADF8\uB807\uB124."
+    dialogue: "\uC0DD\uAC01\uD574\uBCF4\uB2C8 \uADF8\uB7EC\uB124... "
   - speakerIndex: 1
-    name: "\uBBF8\uCE74\uC5D8\uB77C"
+    name: ???
     dialogue: "\uC55E\uC73C\uB85C \uACC4\uC18D \uC774\uB984\uB3C4 \uBAA8\uB978 \uCC44
-      \uC9C0\uB0BC\uC218\uB294 \uC5C6\uC73C\uB2C8\uAE4C."
+      \uC9C0\uB0BC\uC218\uB294 \uC5C6\uC73C\uB2C8\uAE4C. "
   - speakerIndex: 1
-    name: "\uBBF8\uCE74\uC5D8\uB77C"
+    name: ???
     dialogue: "\uC774\uC81C\uB77C\uB3C4 \uC11C\uB85C \uC774\uB984\uC744 \uC54C\uB824\uC8FC\uB294\uAC8C
-      \uC88B\uB2E4\uACE0 \uC0DD\uAC01\uD574."
+      \uC88B\uB2E4\uACE0 \uC0DD\uAC01\uD574. "
   - speakerIndex: 3
-    name: "\uD76C\uB77C"
+    name: ???
     dialogue: "\uBBF8\uCE74\uC5D8\uB77C\uB294 \uC5B8\uB2C8\uB97C \uC88B\uC544\uD574\uC11C
-      \uC774\uB7EC\uB294\uAC70\uC57C!\r"
+      \uC774\uB7EC\uB294\uAC70\uC57C!\r "
   - speakerIndex: 1
     name: "\uBBF8\uCE74\uC5D8\uB77C"
     dialogue: "\uD76C\uB77C! \uB0B4 \uC774\uB984\uC744 \uADF8\uB807\uAC8C \uB35C\uCEE5
       \uB9D0\uD558\uBA74 \uC5B4\uB5A1\uD574!"
   - speakerIndex: 2
-    name: "\uC624\uB85C\uB77C"
-    dialogue: "\uADF8\uB7EC\uB294 \uB108\uB3C4 \uC544\uBB34\uB807\uC9C0 \uC54A\uAC8C
-      \uD76C\uB77C \uC774\uB984\uC744 \uB9D0\uD588\uC796\uC544."
+    name: ???
+    dialogue: "\uADF8\uB7EC\uB294 \uBBF8\uCE74\uC5D8\uB77C\uB3C4 \uC544\uBB34\uB807\uC9C0
+      \uC54A\uAC8C \uD76C\uB77C \uC774\uB984\uC744 \uB9D0\uD588\uC796\uC544\uC694. "
   - speakerIndex: 1
     name: "\uBBF8\uCE74\uC5D8\uB77C"
     dialogue: "\uC624\uB85C\uB77C, \uB108\uB9CC \uADF8\uB807\uAC8C \uACE0\uACE0\uD55C
       \uCC44 \uC788\uACA0\uB2E4 \uC774\uAC70\uC9C0?"
   - speakerIndex: 2
     name: "\uC624\uB85C\uB77C"
-    dialogue: "\uC5B4\uBA38, \uBB34\uC2A8 \uC18C\uB9AC\uB97C \uD558\uB294\uC9C0 \uBAA8\uB974\uACA0\uB124."
+    dialogue: "\uC5B4\uBA38, \uBB34\uC2A8 \uB9D0\uC500\uC774\uC2E0\uC9C0 \uC798 \uBAA8\uB974\uACA0\uB124\uC694. "
   - speakerIndex: 0
     name: "\uBC1C\uD560\uB77C"
     dialogue: "(\uB5A0\uB4E4\uC369\uD55C \uBD84\uC704\uAE30\uB3C4 \uB098\uC058\uC9C0
-      \uC54A\uB124)"
+      \uC54A\uB124.)"
   - speakerIndex: 0
     name: "\uBC1C\uD560\uB77C"
     dialogue: "(\uC5B4\uCA50\uC9C0 \uAE34\uC7A5\uC774 \uD480\uB9AC\uB294\u2026)"
@@ -5329,7 +5329,7 @@ MonoBehaviour:
   dialogues:
   - speakerIndex: 0
     name: "\uBC1C\uD560\uB77C"
-    dialogue: "(\uC73D!)  "
+    dialogue: "(\uC73D!) "
   isAutoStart: 1
 --- !u!4 &1214819939
 Transform:
@@ -7043,6 +7043,7 @@ MonoBehaviour:
   MI: {fileID: 1070708138}
   MN: {fileID: 1767642492}
   MT: {fileID: 943319721}
+  HeraName: {fileID: 521564616}
   HI: {fileID: 937996279}
   HN: {fileID: 521564613}
   HT: {fileID: 827105675}
@@ -7713,73 +7714,73 @@ MonoBehaviour:
   dialogues:
   - speakerIndex: 1
     name: "\uBBF8\uCE74\uC5D8\uB77C"
-    dialogue: "\uAD1C\uCC2E\uC544? \uBB34\uC2A8 \uC77C\uC774\uC57C?\r"
+    dialogue: "\uAD1C\uCC2E\uC544? \uBB34\uC2A8 \uC77C\uC774\uC57C?\r "
   - speakerIndex: 3
     name: "\uD76C\uB77C"
-    dialogue: "\uC57D\uC774\uB77C\uB3C4 \uAC00\uC838\uC62C\uAE4C?\r"
+    dialogue: "\uC57D\uC774\uB77C\uB3C4 \uAC00\uC838\uC62C\uAE4C?\r "
   - speakerIndex: 0
     name: "\uBC1C\uD560\uB77C"
-    dialogue: "\uC544\uB0D0, \uAD1C\uCC2E\uC544.\r"
+    dialogue: "\uC544\uB0D0, \uAD1C\uCC2E\uC544. "
   - speakerIndex: 0
     name: "\uBC1C\uD560\uB77C"
-    dialogue: "\uAC11\uC790\uAE30 \uAE34\uC7A5\uC774 \uD480\uB824\uC11C \uADF8\uB7AC\uB098\uBD10.\r"
+    dialogue: "\uAC11\uC790\uAE30 \uAE34\uC7A5\uC774 \uD480\uB824\uC11C \uADF8\uB7AC\uB098\uBD10.\r "
   - speakerIndex: 0
     name: "\uBC1C\uD560\uB77C"
     dialogue: "(\uADF8\uB798, \uC774\uB807\uAC8C \uD3B8\uC548\uD558\uAC8C \uC788\uC744
-      \uB54C \uAC00 \uC544\uB2C8\uC57C) \r"
+      \uB54C\uAC00 \uC544\uB2C8\uC57C.) \r"
   - speakerIndex: 0
     name: "\uBC1C\uD560\uB77C"
-    dialogue: "(\uBA3C\uC800 \uD655\uC778\uD574\uC57C \uD560 \uC77C\uC774 \uC788\uC5B4)\r"
+    dialogue: "(\uBA3C\uC800 \uD655\uC778\uD574\uC57C \uD560 \uC77C\uC774 \uC788\uC5B4.)\r "
   - speakerIndex: 1
     name: "\uBBF8\uCE74\uC5D8\uB77C"
-    dialogue: "\uC815\uB9D0 \uAD1C\uCC2E\uC740\uAC70\uC57C? \uAD1C\uD788 \uAC71\uC815\uB3FC\uC11C
-      \uADF8\uB798\r"
+    dialogue: "\uC815\uB9D0 \uAD1C\uCC2E\uC740\uAC70\uC57C? \uAC71\uC815\uB3FC\uC11C
+      \uADF8\uB798\r."
   - speakerIndex: 2
     name: "\uC624\uB85C\uB77C"
-    dialogue: "\uAD1C\uCC2E\uC73C\uBA74 \uB0B4\uAC00 \uC9D1\uC73C\uB85C \uB370\uB824\uB2E4
-      \uC904\uAC8C.\r"
+    dialogue: "\uAD1C\uCC2E\uC73C\uC2DC\uB2E4\uBA74 \uC81C\uAC00 \uC9D1\uAE4C\uC9C0
+      \uBD80\uCD95\uD574\uB4DC\uB9B4\uAC8C\uC694. "
   - speakerIndex: 0
     name: "\uBC1C\uD560\uB77C"
     dialogue: "\uC544\uB2C8\uC57C. \uB098\uB3C4 \uC5EC\uAE30\uC11C \uC598\uAE30\uB97C
-      \uC880 \uB354 \uB098\uB204\uACE0 \uC2F6\uC5B4.\r"
+      \uC880 \uB354 \uB098\uB204\uACE0 \uC2F6\uC5B4.\r "
   - speakerIndex: 0
     name: "\uBC1C\uD560\uB77C"
     dialogue: "\uADF8\uB7EC\uACE0 \uBCF4\uB2C8 \uC5EC\uAE30 \uC12C \uC774\uB984\uC740
-      \uBB50\uC57C?\r"
+      \uBB50\uC57C? "
   - speakerIndex: 0
     name: "\uBC1C\uD560\uB77C"
     dialogue: "\uC801\uC5B4\uB3C4 \uB0B4\uAC00 \uC5B4\uB514\uC5D0 \uD45C\uB958\uD574
-      \uC788\uB294\uC9C0\uB294 \uC54C\uACE0\uC2F6\uC5B4\uC11C.\r"
+      \uC788\uB294\uC9C0\uB294 \uC54C\uACE0\uC2F6\uC5B4\uC11C. "
   - speakerIndex: 2
     name: "\uC624\uB85C\uB77C"
     dialogue: "\uC5EC\uAE30\uB294 \u2018\uC785\uC2A4\u2019 \uB77C\uACE0 \uBD88\uB9AC\uB294
-      \uC12C\uC774\uC57C.\r"
+      \uC12C\uC774\uC5D0\uC694. "
   - speakerIndex: 0
     name: "\uBC1C\uD560\uB77C"
-    dialogue: "(\uC5ED\uC2DC \uB0B4 \uC608\uC0C1\uC774 \uB9DE\uC558\uC5B4.)\r"
+    dialogue: "(\uC5ED\uC2DC \uB0B4 \uC608\uC0C1\uC774 \uB9DE\uC558\uC5B4.)\r "
   - speakerIndex: 0
     name: "\uBC1C\uD560\uB77C"
     dialogue: "(\uC774 \uC12C\uC740 \uB2E4\uB978 \uC12C\uACFC\uB294 \uC5B4\uB518\uAC00
-      \uB2EC\uB77C)\r"
+      \uB2EC\uB77C.) \r"
   - speakerIndex: 1
     name: "\uBBF8\uCE74\uC5D8\uB77C"
-    dialogue: "\uC815\uB9D0 \uAD1C\uCC2E\uC544? \uD45C\uC815\uC774 \uC2EC\uAC01\uD55C\uB370\u2026\r"
+    dialogue: "\uC815\uB9D0 \uAD1C\uCC2E\uC544? \uD45C\uC815\uC774 \uC2EC\uAC01\uD55C\uB370\u2026 "
   - speakerIndex: 3
     name: "\uD76C\uB77C"
-    dialogue: "\uC5B8\uB2C8\uAC00 \uAD1C\uCC2E\uB2E4\uC796\uC544!\r"
+    dialogue: "\uC5B8\uB2C8\uAC00 \uAD1C\uCC2E\uB2E4\uC796\uC544!\r "
   - speakerIndex: 0
     name: "\uBC1C\uD560\uB77C"
-    dialogue: "\uB9DE\uC544, \uB09C \uC815\uB9D0 \uAD1C\uCC2E\uB300\uB3C4.\r"
+    dialogue: "\uB9DE\uC544, \uB09C \uC815\uB9D0 \uAD1C\uCC2E\uB300\uB3C4.\r "
   - speakerIndex: 1
     name: "\uBBF8\uCE74\uC5D8\uB77C"
     dialogue: "\uADF8\uB798. \uADF8\uB7EC\uBA74 \uC870\uAE08\uB9CC \uC598\uAE30\uB97C
-      \uB098\uB204\uACE0 "
+      \uB098\uB204\uACE0,  "
   - speakerIndex: 1
     name: "\uBBF8\uCE74\uC5D8\uB77C"
     dialogue: "\uC624\uB298\uC740 \uC77C\uCC0D \uC9D1\uC5D0 \uB4E4\uC5B4\uAC00\uB294\uAC70\uC57C.\r"
   - speakerIndex: 2
     name: "\uC624\uB85C\uB77C"
-    dialogue: "\uB098\uB3C4 \uADF8 \uB9D0\uC5D0 \uCC2C\uC131\uC774\uC57C.\r"
+    dialogue: "\uCC2C\uC131\uC774\uC5D0\uC694. "
   - speakerIndex: 0
     name: "\uBC1C\uD560\uB77C"
     dialogue: "\uC88B\uC544. \uC774\uC81C \uCC28\uB098 \uD55C \uC794 \uD560\uAE4C?\r"
@@ -7788,21 +7789,21 @@ MonoBehaviour:
     dialogue: "\uB0B4 \uC774\uB984\uC740 \uBC1C\uD560\uB77C\uC57C.\r"
   - speakerIndex: 0
     name: "\uBC1C\uD560\uB77C"
-    dialogue: "(\uC785\uC2A4, \uADF8\uB9AC\uACE0 \u2018\uB77C\u2019)\r"
+    dialogue: "(\uC785\uC2A4, \uADF8\uB9AC\uACE0 \u2018\uB77C\u2019...) \r "
   - speakerIndex: 0
     name: "\uBC1C\uD560\uB77C"
-    dialogue: "\uC55E\uC73C\uB85C \uC798 \uBD80\uD0C1\uD574\r"
+    dialogue: "\uC55E\uC73C\uB85C \uC798 \uBD80\uD0C1\uD574\r. "
   - speakerIndex: 0
     name: "\uBC1C\uD560\uB77C"
     dialogue: "(\uADF8\uB9AC\uACE0 \uB208 \uC55E\uC5D0 \uC788\uB294 \uB140\uC11D\uB4E4\uC740
-      \uBAA8\uB450 \uC6A9\uC758\uC790\uC57C)\r  "
+      \uBAA8\uB450 \uC6A9\uC758\uC790\uC57C.)\r "
   - speakerIndex: 0
     name: "\uBC1C\uD560\uB77C"
-    dialogue: "\uADF8\uB7FC \uC774\uC81C \uCC28\uB97C \uC880 \uB9C8\uC154\uBCFC\uAE4C?\r"
+    dialogue: "\uADF8\uB7FC \uC774\uC81C \uCC28\uB97C \uC880 \uB9C8\uC154\uBCFC\uAE4C?\r "
   - speakerIndex: 0
     name: "\uBC1C\uD560\uB77C"
     dialogue: "(\uC774\uC81C\uBD80\uD130 \uD558\uB098\uD558\uB098 \uB2E8\uC11C\uB97C
-      \uCC3E\uC544\uB0BC \uC2DC\uAC04\uC774\uC57C)\r"
+      \uCC3E\uC544\uB0BC \uC2DC\uAC04\uC774\uC57C.)\r "
   isAutoStart: 1
 --- !u!4 &1707260018
 Transform:

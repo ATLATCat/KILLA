@@ -30,6 +30,8 @@ public class TeaDTest : MonoBehaviour
     public GameObject MN;
     public GameObject MT;
 
+    public Text HeraName;
+
     public GameObject HI;
     public GameObject HN;
     public GameObject HT;
@@ -51,7 +53,7 @@ public class TeaDTest : MonoBehaviour
     // Start is called before the first frame update
     private IEnumerator Start()
     {
-        
+
         //커피토크식 대화
         yield return new WaitUntil(() => dialogueSystem01.UpdateDialogue());
         Micha.SetActive(true);
@@ -83,6 +85,7 @@ public class TeaDTest : MonoBehaviour
 
         HI.SetActive(true);
         HN.SetActive(true);
+        HeraName.text = "희라";
         HT.SetActive(true);
 
         MI.SetActive(true);

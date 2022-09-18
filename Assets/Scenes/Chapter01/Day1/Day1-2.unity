@@ -1059,7 +1059,7 @@ MonoBehaviour:
     m_PressedTrigger: Pressed
     m_SelectedTrigger: Selected
     m_DisabledTrigger: Disabled
-  m_Interactable: 1
+  m_Interactable: 0
   m_TargetGraphic: {fileID: 312156180}
   m_OnClick:
     m_PersistentCalls:
@@ -1511,7 +1511,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &503013259
 RectTransform:
   m_ObjectHideFlags: 0
@@ -1871,47 +1871,46 @@ MonoBehaviour:
     name: "\uBC1C\uD560\uB77C"
     dialogue: "\uC544\uB2C8, \uADF8\uC804\uC5D0..."
   - speakerIndex: 1
-    name: "\uBBF8\uCE74\uC5D8\uB77C"
-    dialogue: "\uB09C \uBBF8\uCE74\uC5D8\uB77C. \n\uC774\uAC83\uC800\uAC83 \uBB3B\uACE0
-      \uC2F6\uC740\uAC8C \uB9CE\uC740\uAC70\uC9C0? "
+    name: ???
+    dialogue: "\uC774\uAC83\uC800\uAC83 \uBB3B\uACE0 \uC2F6\uC740\uAC8C \uB9CE\uC740\uAC70\uC9C0? "
   - speakerIndex: 0
     name: "\uBC1C\uD560\uB77C"
     dialogue: "\uC73C... \uC751... "
   - speakerIndex: 1
-    name: "\uBBF8\uCE74\uC5D8\uB77C"
+    name: ???
     dialogue: "\uACC4\uC18D \uC2E4\uB0B4\uC5D0\uB9CC \uC788\uC73C\uBA74 \uB2F5\uB2F5\uD558\uC796\uC544. "
   - speakerIndex: 1
-    name: "\uBBF8\uCE74\uC5D8\uB77C"
+    name: ???
     dialogue: "\uAC78\uC73C\uBA74\uC11C \uC598\uAE30\uD558\uBA74 \uB418\uB2C8\uAE4C.
       \uAC19\uC774 \uB098\uAC00\uC790. "
   - speakerIndex: 1
-    name: "\uBBF8\uCE74\uC5D8\uB77C"
+    name: ???
     dialogue: "\uAC00\uBC29\uC740 \uB0B4\uAC00 \uCC59\uACA8\uB480\uC73C\uB2C8\uAE4C. "
   - speakerIndex: 0
     name: "\uBC1C\uD560\uB77C"
     dialogue: "\uB4E4\uD310\uC5D0 \uAC00\uC11C \uBB58 \uD560\uAC74\uB370? "
   - speakerIndex: 1
-    name: "\uBBF8\uCE74\uC5D8\uB77C"
+    name: ???
     dialogue: "\uC57D\uCD08\uB97C \uC880 \uCE90\uACE0 \uC62C \uC0DD\uAC01\uC774\uC57C. "
   - speakerIndex: 1
-    name: "\uBBF8\uCE74\uC5D8\uB77C"
+    name: ???
     dialogue: "\uC548 \uADF8\uB798\uB3C4 \uC57D\uBC29\uC5D0 \uC7AC\uB8CC\uAC00 \uC8C4\uB2E4
       \uB5A8\uC5B4\uC84C\uAC70\uB4E0. "
   - speakerIndex: 1
-    name: "\uBBF8\uCE74\uC5D8\uB77C"
+    name: ???
     dialogue: "\uB108\uD55C\uD14C \uC774 \uC8FC\uBCC0\uB3C4 \uC18C\uAC1C\uD574\uC8FC\uACE0. "
   - speakerIndex: 0
     name: "\uBC1C\uD560\uB77C"
     dialogue: "\uC751. \uACE0\uB9C8\uC6CC. "
   - speakerIndex: 1
-    name: "\uBBF8\uCE74\uC5D8\uB77C"
+    name: ???
     dialogue: "\uC5B4\uCC28\uD53C \uC774\uACF3\uC5D0 \uC624\uB798 \uC788\uC5B4\uC57C
       \uD560 \uD14C\uB2C8... "
   - speakerIndex: 0
     name: "\uBC1C\uD560\uB77C"
     dialogue: "\uBB50\uB77C\uACE0? "
   - speakerIndex: 1
-    name: "\uBBF8\uCE74\uC5D8\uB77C"
+    name: ???
     dialogue: "\uC544\uBB34\uAC83\uB3C4 \uC544\uB0D0. \uADF8\uB7FC \uAC00\uBCFC\uAE4C? "
   isAutoStart: 1
 --- !u!4 &758912041
@@ -2477,7 +2476,7 @@ MonoBehaviour:
     m_PressedTrigger: Pressed
     m_SelectedTrigger: Selected
     m_DisabledTrigger: Disabled
-  m_Interactable: 1
+  m_Interactable: 0
   m_TargetGraphic: {fileID: 1073005412}
   m_OnClick:
     m_PersistentCalls:
@@ -2676,7 +2675,7 @@ MonoBehaviour:
     m_PressedTrigger: Pressed
     m_SelectedTrigger: Selected
     m_DisabledTrigger: Disabled
-  m_Interactable: 1
+  m_Interactable: 0
   m_TargetGraphic: {fileID: 1110962927}
   m_OnClick:
     m_PersistentCalls:
@@ -2923,7 +2922,7 @@ MonoBehaviour:
     m_PressedTrigger: Pressed
     m_SelectedTrigger: Selected
     m_DisabledTrigger: Disabled
-  m_Interactable: 1
+  m_Interactable: 0
   m_TargetGraphic: {fileID: 1357204305}
   m_OnClick:
     m_PersistentCalls:
