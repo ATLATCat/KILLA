@@ -1,0 +1,1788 @@
+fileFormatVersion: 2
+guid: a52674e708dba7d429eaca674797509a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5902919174424966168
+    second: 1kill_blood1_0
+  - first:
+      213: 7343019075484898301
+    second: 1kill_blood1_1
+  - first:
+      213: 2545688673120282965
+    second: 1kill_blood1_2
+  - first:
+      213: 7759759456001434913
+    second: 1kill_blood1_3
+  - first:
+      213: -79879144952529771
+    second: 1kill_blood1_4
+  - first:
+      213: 4887975186685125194
+    second: 1kill_blood1_5
+  - first:
+      213: 2806721712303936517
+    second: 1kill_blood1_6
+  - first:
+      213: 2733588629040616258
+    second: 1kill_blood1_7
+  - first:
+      213: 7997251209632657748
+    second: 1kill_blood1_8
+  - first:
+      213: -8185165051579110381
+    second: 1kill_blood1_9
+  - first:
+      213: -8060834653948756460
+    second: 1kill_blood1_10
+  - first:
+      213: -6272567132987454508
+    second: 1kill_blood1_11
+  - first:
+      213: -1765057962698856445
+    second: 1kill_blood1_12
+  - first:
+      213: -2682769739834123703
+    second: 1kill_blood1_13
+  - first:
+      213: 5376098397479767068
+    second: 1kill_blood1_14
+  - first:
+      213: 4765384874358978297
+    second: 1kill_blood1_15
+  - first:
+      213: 4875075225330397366
+    second: 1kill_blood1_16
+  - first:
+      213: -5985089967758063792
+    second: 1kill_blood1_17
+  - first:
+      213: 5489564849959668485
+    second: 1kill_blood1_18
+  - first:
+      213: -5515245365676213852
+    second: 1kill_blood1_19
+  - first:
+      213: 3114442179078976954
+    second: 1kill_blood1_20
+  - first:
+      213: -2811034282075377677
+    second: 1kill_blood1_21
+  - first:
+      213: -3794666436213444804
+    second: 1kill_blood1_22
+  - first:
+      213: -7532540875577088950
+    second: 1kill_blood1_23
+  - first:
+      213: -4741492805468268078
+    second: 1kill_blood1_24
+  - first:
+      213: 1069874985472204143
+    second: 1kill_blood1_25
+  - first:
+      213: -6213703420372769969
+    second: 1kill_blood1_26
+  - first:
+      213: -4231809483889168183
+    second: 1kill_blood1_27
+  - first:
+      213: -8928623877270926467
+    second: 1kill_blood1_28
+  - first:
+      213: 2842331537831744615
+    second: 1kill_blood1_29
+  - first:
+      213: 4182364000820990752
+    second: 1kill_blood1_30
+  - first:
+      213: -9127229493971794824
+    second: 1kill_blood1_31
+  - first:
+      213: -6636072984352578192
+    second: 1kill_blood1_32
+  - first:
+      213: -5451633148970820212
+    second: 1kill_blood1_33
+  - first:
+      213: 2964211993121061150
+    second: 1kill_blood1_34
+  - first:
+      213: 5925342438988044221
+    second: 1kill_blood1_35
+  - first:
+      213: -2325987180249292143
+    second: 1kill_blood1_36
+  - first:
+      213: 3127728661900020693
+    second: 1kill_blood1_37
+  - first:
+      213: 814834932719601050
+    second: 1kill_blood1_38
+  - first:
+      213: -3948723887865361503
+    second: 1kill_blood1_39
+  - first:
+      213: 6148391401765479702
+    second: 1kill_blood1_40
+  - first:
+      213: -6330486060836607421
+    second: 1kill_blood1_41
+  - first:
+      213: -8706630957316647243
+    second: 1kill_blood1_42
+  - first:
+      213: -8759950406576834555
+    second: 1kill_blood1_43
+  - first:
+      213: 3372176933813965140
+    second: 1kill_blood1_44
+  - first:
+      213: -3274336651259489288
+    second: 1kill_blood1_45
+  - first:
+      213: -4877587771980501634
+    second: 1kill_blood1_46
+  - first:
+      213: -8793248175741128747
+    second: 1kill_blood1_47
+  - first:
+      213: -2301535928275513814
+    second: 1kill_blood1_48
+  - first:
+      213: -1142096489234985384
+    second: 1kill_blood1_49
+  - first:
+      213: 6922242673044653959
+    second: 1kill_blood1_50
+  - first:
+      213: 4570606308672498067
+    second: 1kill_blood1_51
+  - first:
+      213: 6297189723815152441
+    second: 1kill_blood1_52
+  - first:
+      213: 8038090537490467199
+    second: 1kill_blood1_53
+  - first:
+      213: 3253248236472286725
+    second: 1kill_blood1_54
+  - first:
+      213: -7960614992918926324
+    second: 1kill_blood1_55
+  - first:
+      213: -7323432565625295383
+    second: 1kill_blood1_56
+  - first:
+      213: -5656970473085364545
+    second: 1kill_blood1_57
+  - first:
+      213: -1107388559880122246
+    second: 1kill_blood1_58
+  - first:
+      213: -8358882179382495128
+    second: 1kill_blood1_59
+  - first:
+      213: -4148750054406619852
+    second: 1kill_blood1_60
+  - first:
+      213: -8791316631945171694
+    second: 1kill_blood1_61
+  - first:
+      213: 795812943843940129
+    second: 1kill_blood1_62
+  - first:
+      213: 1432582062826465723
+    second: 1kill_blood1_63
+  - first:
+      213: 1072226084047145350
+    second: 1kill_blood1_64
+  - first:
+      213: 8112633239952160008
+    second: 1kill_blood1_65
+  - first:
+      213: -4701705613706967210
+    second: 1kill_blood1_66
+  - first:
+      213: -369808198133411580
+    second: 1kill_blood1_67
+  - first:
+      213: 3057643210711893593
+    second: 1kill_blood1_68
+  - first:
+      213: -4646413634074663458
+    second: 1kill_blood1_69
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 1kill_blood1_0
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 648
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8143171d6b16be150800000000000000
+      internalID: 5902919174424966168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1kill_blood1_1
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 643
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df3d135b1f4a7e560800000000000000
+      internalID: 7343019075484898301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1kill_blood1_2
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 624
+        width: 36
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559e11e4c5a145320800000000000000
+      internalID: 2545688673120282965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1kill_blood1_3
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 648
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 125a17dbc1430bb60800000000000000
+      internalID: 7759759456001434913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1kill_blood1_4
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 650
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c7424475634eef0800000000000000
+      internalID: -79879144952529771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1kill_blood1_5
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 648
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a426a41e88395d340800000000000000
+      internalID: 4887975186685125194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1kill_blood1_6
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 633
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5049045d68a73f620800000000000000
+      internalID: 2806721712303936517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1kill_blood1_7
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 598
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 243530cff58afe520800000000000000
+      internalID: 2733588629040616258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1kill_blood1_8
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 644
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 451b7b99a91fbfe60800000000000000
+      internalID: 7997251209632657748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1kill_blood1_9
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 642
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c6fa0a0c3786e80800000000000000
+      internalID: -8185165051579110381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1kill_blood1_10
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 627
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41eb9322799222090800000000000000
+      internalID: -8060834653948756460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1kill_blood1_11
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 635
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db0e701d6d53f8a0800000000000000
+      internalID: -6272567132987454508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1kill_blood1_12
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 638
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3082c5572214187e0800000000000000
+      internalID: -1765057962698856445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1kill_blood1_13
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 628
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a1503b223e4cad0800000000000000
+      internalID: -2682769739834123703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1kill_blood1_14
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 620
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c045b320dbb9a40800000000000000
+      internalID: 5376098397479767068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1kill_blood1_15
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 613
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f6bf2e8b4c022240800000000000000
+      internalID: 4765384874358978297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1kill_blood1_16
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 614
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b03023961fb7a340800000000000000
+      internalID: 4875075225330397366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1kill_blood1_17
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 621
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 057c60b7260b0fca0800000000000000
+      internalID: -5985089967758063792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1kill_blood1_18
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 605
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b0155652ade2c40800000000000000
+      internalID: 5489564849959668485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1kill_blood1_19
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 621
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a9ffb99f89e573b0800000000000000
+      internalID: -5515245365676213852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1kill_blood1_20
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 623
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab5fe7d29a8b83b20800000000000000
+      internalID: 3114442179078976954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1kill_blood1_21
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 621
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ffa375c6333df8d0800000000000000
+      internalID: -2811034282075377677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1kill_blood1_22
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 618
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f66643bf2a65bc0800000000000000
+      internalID: -3794666436213444804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1kill_blood1_23
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 56
+        width: 822
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a442e179bf9077790800000000000000
+      internalID: -7532540875577088950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1kill_blood1_24
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 614
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d95ef83a65d23eb0800000000000000
+      internalID: -4741492805468268078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1kill_blood1_25
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 614
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d952f71a5f8de00800000000000000
+      internalID: 1069874985472204143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1kill_blood1_26
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 482
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f432d0929ad74c9a0800000000000000
+      internalID: -6213703420372769969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1kill_blood1_27
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 462
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c038ab02b79545c0800000000000000
+      internalID: -4231809483889168183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1kill_blood1_28
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 453
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b0236b3e7271480800000000000000
+      internalID: -8928623877270926467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1kill_blood1_29
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 457
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 764d95e697df17720800000000000000
+      internalID: 2842331537831744615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1kill_blood1_30
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 441
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 023115e46edba0a30800000000000000
+      internalID: 4182364000820990752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1kill_blood1_31
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 447
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874c7542221955180800000000000000
+      internalID: -9127229493971794824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1kill_blood1_32
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 440
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0752918b7cee7e3a0800000000000000
+      internalID: -6636072984352578192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1kill_blood1_33
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 435
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d99d5f888e754b0800000000000000
+      internalID: -5451633148970820212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1kill_blood1_34
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 427
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e19fee84a1ff22920800000000000000
+      internalID: 2964211993121061150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1kill_blood1_35
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 414
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db7dd60fd8b0b3250800000000000000
+      internalID: 5925342438988044221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1kill_blood1_36
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 412
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 192e021bbfe68bfd0800000000000000
+      internalID: -2325987180249292143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1kill_blood1_37
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 406
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dbcb5685ace76b20800000000000000
+      internalID: 3127728661900020693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1kill_blood1_38
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 385
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a95c45bdd00ee4b00800000000000000
+      internalID: 814834932719601050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1kill_blood1_39
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 386
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab8fa39b805339c0800000000000000
+      internalID: -3948723887865361503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1kill_blood1_40
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 355
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6152c428769735550800000000000000
+      internalID: 6148391401765479702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1kill_blood1_41
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 343
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34aa540d7789528a0800000000000000
+      internalID: -6330486060836607421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1kill_blood1_42
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 342
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6d8b62645db2780800000000000000
+      internalID: -8706630957316647243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1kill_blood1_43
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 322
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508f2f574876e6680800000000000000
+      internalID: -8759950406576834555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1kill_blood1_44
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 310
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4515fb30e016cce20800000000000000
+      internalID: 3372176933813965140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1kill_blood1_45
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 174
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f3d2a2f9283f82d0800000000000000
+      internalID: -3274336651259489288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1kill_blood1_46
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 133
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d205293c35f4cb0800000000000000
+      internalID: -4877587771980501634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1kill_blood1_47
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 144
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df291f6f5b18f580800000000000000
+      internalID: -8793248175741128747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1kill_blood1_48
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 128
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ec65d644d4f00e0800000000000000
+      internalID: -2301535928275513814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1kill_blood1_49
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 0
+        width: 46
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e8deb4b457620f0800000000000000
+      internalID: -1142096489234985384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1kill_blood1_50
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 44
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78780e7190fb01060800000000000000
+      internalID: 6922242673044653959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1kill_blood1_51
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 30
+        width: 70
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399659cb83e0e6f30800000000000000
+      internalID: 4570606308672498067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1kill_blood1_52
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 48
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b0e3b90bc146750800000000000000
+      internalID: 6297189723815152441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1kill_blood1_53
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 53
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f794c8791c80d8f60800000000000000
+      internalID: 8038090537490467199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1kill_blood1_54
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 55
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50eb81dd80cd52d20800000000000000
+      internalID: 3253248236472286725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1kill_blood1_55
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 51
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c2b6157d6368190800000000000000
+      internalID: -7960614992918926324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1kill_blood1_56
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 53
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed606df1e0fd5a90800000000000000
+      internalID: -7323432565625295383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1kill_blood1_57
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 53
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb69fde93576e71b0800000000000000
+      internalID: -5656970473085364545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1kill_blood1_58
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 53
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a709304d8f3c1a0f0800000000000000
+      internalID: -1107388559880122246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1kill_blood1_59
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 50
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8683092f1f84ffb80800000000000000
+      internalID: -8358882179382495128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1kill_blood1_60
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 47
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43df5397ecdac66c0800000000000000
+      internalID: -4148750054406619852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1kill_blood1_61
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 47
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21dace40a18fef580800000000000000
+      internalID: -8791316631945171694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1kill_blood1_62
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 38
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 127d971f7ab4b0b00800000000000000
+      internalID: 795812943843940129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1kill_blood1_63
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 45
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb92e56cbcd81e310800000000000000
+      internalID: 1432582062826465723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1kill_blood1_64
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 38
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 689c98a41ff41ee00800000000000000
+      internalID: 1072226084047145350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1kill_blood1_65
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 22
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805ff5cf2fcd59070800000000000000
+      internalID: 8112633239952160008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1kill_blood1_66
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 32
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6574980b7af20ceb0800000000000000
+      internalID: -4701705613706967210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1kill_blood1_67
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 32
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4011b33376d2edaf0800000000000000
+      internalID: -369808198133411580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1kill_blood1_68
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 21
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9560e50dc4eee6a20800000000000000
+      internalID: 3057643210711893593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1kill_blood1_69
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 4
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5a275ea6f948fb0800000000000000
+      internalID: -4646413634074663458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
