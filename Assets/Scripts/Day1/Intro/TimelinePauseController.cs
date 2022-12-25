@@ -8,6 +8,11 @@ public class TimelinePauseController : MonoBehaviour
 {
     public PlayableDirector activeDirector;
 
+    private void Start()
+    {
+        activeDirector = GetComponent<PlayableDirector>();
+    }
+
     // Update is called once per frame
     void Update()
     {
