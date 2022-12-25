@@ -6,7 +6,7 @@ using UnityEngine.SceneManagement;
 
 public class IntroTest_1: MonoBehaviour
 {
-    // ´ÙÀÌ¾ó·Î±× 
+    // ï¿½ï¿½ï¿½Ì¾ï¿½Î±ï¿½ 
     [SerializeField]
     private DialogSystem DialogSystem01;
     [SerializeField]
@@ -16,14 +16,14 @@ public class IntroTest_1: MonoBehaviour
     [SerializeField]
     private DialogSystem DialogSystem04;
 
-    // ¿ÀºêÁ§Æ® 
-    [Header("ÆÇµµ¶óÀÇ »óÀÚ")]
+    // ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ® 
+    [Header("ï¿½Çµï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½")]
     public GameObject pandoraBox;
-    [Header("°ËÀº È­¸é(Åõ¸í) ÆäÀÌµåÀÎ")]
+    [Header("ï¿½ï¿½ï¿½ï¿½ È­ï¿½ï¿½(ï¿½ï¿½ï¿½ï¿½) ï¿½ï¿½ï¿½Ìµï¿½ï¿½ï¿½")]
     public GameObject T_background;
-    [Header("°ËÀº È­¸é(Åõ¸íX) ÆäÀÌµåÀÎ")]
+    [Header("ï¿½ï¿½ï¿½ï¿½ È­ï¿½ï¿½(ï¿½ï¿½ï¿½ï¿½X) ï¿½ï¿½ï¿½Ìµï¿½ï¿½ï¿½")]
     public Image NT_background;
-    [Header("¹ßÇÒ¶ó ¼Õ")]
+    [Header("ï¿½ï¿½ï¿½Ò¶ï¿½ ï¿½ï¿½")]
     public GameObject ValhallaHand;
 
     
@@ -44,13 +44,13 @@ public class IntroTest_1: MonoBehaviour
 
         tr = pandoraBox.GetComponent<Transform>();
 
-        // Ã¹¹øÂ° ´ë»ç ºÐ±â ½ÃÀÛ
+        // Ã¹ï¿½ï¿½Â° ï¿½ï¿½ï¿½ ï¿½Ð±ï¿½ ï¿½ï¿½ï¿½ï¿½
         StartCoroutine(T_FadeCoroutine(alphaValue));
         Debug.Log(alphaValue);
         yield return new WaitForSeconds(3f);
         yield return new WaitUntil(() => DialogSystem01.UpdateDialog());
 
-        // ´ë»ç ºÐ±â »çÀÌ¿¡ ¿øÇÏ´Â Çàµ¿ Ãß°¡ °¡´É
+        // ï¿½ï¿½ï¿½ ï¿½Ð±ï¿½ ï¿½ï¿½ï¿½Ì¿ï¿½ ï¿½ï¿½ï¿½Ï´ï¿½ ï¿½àµ¿ ï¿½ß°ï¿½ ï¿½ï¿½ï¿½ï¿½
         int count = 3;
         while (count > 0)
         {
@@ -58,30 +58,30 @@ public class IntroTest_1: MonoBehaviour
             yield return new WaitForSeconds(1f);
         }
 
-        // µÎ¹øÂ° ´ë»ç ºÐ±â ½ÃÀÛ
+        // ï¿½Î¹ï¿½Â° ï¿½ï¿½ï¿½ ï¿½Ð±ï¿½ ï¿½ï¿½ï¿½ï¿½
         yield return new WaitUntil(() => DialogSystem02.UpdateDialog());
 
-        //°ËÁ¤ È­¸é -> ÆäÀÌµåÀÎ
+        //ï¿½ï¿½ï¿½ï¿½ È­ï¿½ï¿½ -> ï¿½ï¿½ï¿½Ìµï¿½ï¿½ï¿½
         T_background.gameObject.SetActive(false);
         StartCoroutine(NT_FadeCoroutine());
 
         yield return new WaitForSeconds(2.5f);
 
-        // ¼¼¹øÂ° ´ë»ç ºÐ±â ½ÃÀÛ
+        // ï¿½ï¿½ï¿½ï¿½Â° ï¿½ï¿½ï¿½ ï¿½Ð±ï¿½ ï¿½ï¿½ï¿½ï¿½
         yield return new WaitUntil(() => DialogSystem03.UpdateDialog());
 
-        // ¹Ú½º ÀÌµ¿
+        // ï¿½Ú½ï¿½ ï¿½Ìµï¿½
         StartCoroutine(MoveCoroutine());
 
         yield return new WaitForSeconds(4.5f);
 
-        // ¼Õ ÆäÀÌµå ÀÎ
+        // ï¿½ï¿½ ï¿½ï¿½ï¿½Ìµï¿½ ï¿½ï¿½
         StartCoroutine(H_FadeCoroutine(vh_alphaValue));
 
-        // ³×¹øÂ° ´ë»ç ºÐ±â ½ÃÀÛ       
+        // ï¿½×¹ï¿½Â° ï¿½ï¿½ï¿½ ï¿½Ð±ï¿½ ï¿½ï¿½ï¿½ï¿½       
         yield return new WaitUntil(() => DialogSystem04.UpdateDialog());
 
-        // Intro2 ¾À ÀüÈ¯
+        // Intro2 ï¿½ï¿½ ï¿½ï¿½È¯
         SceneManager.LoadScene("Intro2");
     }
 
@@ -95,7 +95,7 @@ public class IntroTest_1: MonoBehaviour
         }
     }
 
-    // ¼Õ ÆäÀÌµå ÀÎ
+    // ï¿½ï¿½ ï¿½ï¿½ï¿½Ìµï¿½ ï¿½ï¿½
     IEnumerator H_FadeCoroutine(float vh_alphaValue)
     {
         while (vh_alphaValue < 255)
