@@ -9,7 +9,7 @@ public class CombinableBubbleBubble : MonoBehaviour, IPointerDownHandler, IBegin
     public float moveSpeed = 2;
     public float stopMoveDistanceFromTarget = 0.1f;
 
-    public System.Action OnCombine;
+    public System.Action<Vector2> OnCombine;
     
     private LineRenderer lineRenderer;
     private RectTransform rectTransform;
@@ -65,7 +65,7 @@ public class CombinableBubbleBubble : MonoBehaviour, IPointerDownHandler, IBegin
             yield return null;
         }
 
-        OnCombine?.Invoke();
+        OnCombine?.Invoke(transform.position);
 
         target.SetActive(false);
         gameObject.SetActive(false);
