@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Events;
 using UnityEngine.SceneManagement;
 
 public class AfterTeatime : MonoBehaviour
@@ -25,6 +26,12 @@ public class AfterTeatime : MonoBehaviour
     public DialogueSystem DialogSystem4;
     public DialogueSystem DialogSystem5;
 
+    public UnityEvent OnDialog1End;
+    public UnityEvent OnDialog2End;
+    public UnityEvent OnDialog3End;
+    public UnityEvent OnDialog4End;
+    public UnityEvent OnDialog5End;
+
     /* 오디오 소스 */
     public AudioSource audioSourceBGM;
 
@@ -47,22 +54,27 @@ public class AfterTeatime : MonoBehaviour
 
         PlayAudio(audioClip_chair);
         Mechaela.SetActive(false);
+        OnDialog1End?.Invoke();
 
         yield return new WaitUntil(() => DialogSystem2.UpdateDialogue());
 
         PlayAudio(audioClip_bleak);
+        OnDialog2End?.Invoke();
 
         yield return new WaitUntil(() => DialogSystem3.UpdateDialogue());
 
+        OnDialog3End?.Invoke();
 
         yield return new WaitUntil(() => DialogSystem4.UpdateDialogue());
 
         PlayAudio(audioClip_click);
+        OnDialog4End?.Invoke();
 
         yield return new WaitUntil(() => DialogSystem5.UpdateDialogue());
 
         thoughtBubble.SetActive(true);
         ActiveThoughtBubble();
+        OnDialog5End?.Invoke();
 
         yield return new WaitUntil(() => IsAllThoughtBubblePlayed());
         
