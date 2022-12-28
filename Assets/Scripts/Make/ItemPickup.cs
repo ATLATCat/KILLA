@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class ItemPickup : MonoBehaviour
 {
-    public Item Item;
+    public ItemScriptable Item;
 
 
     //필드에서 써야할 함수

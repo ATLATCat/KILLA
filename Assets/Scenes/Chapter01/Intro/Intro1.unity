@@ -519,7 +519,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &210390009
 Transform:
   m_ObjectHideFlags: 0
@@ -546,10 +546,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 83d59a5956774604d8b0708534e68ca5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  DialogSystem01: {fileID: 2021621474}
-  DialogSystem02: {fileID: 1703033353}
-  DialogSystem03: {fileID: 31876718}
-  DialogSystem04: {fileID: 6612250}
+  DialogSystem01: {fileID: 0}
+  DialogSystem02: {fileID: 0}
+  DialogSystem03: {fileID: 0}
+  DialogSystem04: {fileID: 0}
   pandoraBox: {fileID: 2013702935}
   T_background: {fileID: 1802638352}
   NT_background: {fileID: 997142299}
@@ -4245,7 +4245,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 5.4
+  orthographic size: 1.58
   m_Depth: 1
   m_CullingMask:
     serializedVersion: 2
@@ -4269,7 +4269,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1855074020}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0.73, z: -1}
+  m_LocalPosition: {x: 0, y: 2.31, z: -1}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}

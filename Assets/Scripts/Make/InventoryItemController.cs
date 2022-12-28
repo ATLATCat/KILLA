@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class InventoryItemController : MonoBehaviour
 {
-    Item item;
+    ItemScriptable item;
 
     //public Button RemoveButton;
 
@@ -14,7 +14,7 @@ public class InventoryItemController : MonoBehaviour
         Destroy(gameObject);
     }
 
-    public void AddItem(Item newItem)
+    public void AddItem(ItemScriptable newItem)
     {
         item = newItem;
     }
