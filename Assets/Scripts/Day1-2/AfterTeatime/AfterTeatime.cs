@@ -17,6 +17,7 @@ public class AfterTeatime : MonoBehaviour
     [System.Serializable]
     public struct DialogueEvent
     {
+        public float delay;
         public DialogueSystem dialogueSystem;
         public List<UnityEvent> OnDialoguesEnd;
     }
@@ -42,7 +43,10 @@ public class AfterTeatime : MonoBehaviour
 
         foreach (var dialogueEvent in dialogueEvents_beforeThought)
         {
-            yield return new WaitUntil(() => dialogueEvent.dialogueSystem.UpdateDialogue());
+            if (dialogueEvent.delay > 0)
+                yield return new WaitForSeconds(dialogueEvent.delay);
+            if (dialogueEvent.dialogueSystem != null)
+                yield return new WaitUntil(() => dialogueEvent.dialogueSystem.UpdateDialogue());
             foreach (var onDialobueEnd in dialogueEvent.OnDialoguesEnd)
             {
                 onDialobueEnd?.Invoke();
@@ -56,7 +60,10 @@ public class AfterTeatime : MonoBehaviour
 
         foreach (var dialogueEvent in dialogueEvents_afterThought)
         {
-            yield return new WaitUntil(() => dialogueEvent.dialogueSystem.UpdateDialogue());
+            if (dialogueEvent.delay > 0)
+                yield return new WaitForSeconds(dialogueEvent.delay);
+            if (dialogueEvent.dialogueSystem != null)
+                yield return new WaitUntil(() => dialogueEvent.dialogueSystem.UpdateDialogue());
             foreach (var onDialobueEnd in dialogueEvent.OnDialoguesEnd)
             {
                 onDialobueEnd?.Invoke();
@@ -69,7 +76,10 @@ public class AfterTeatime : MonoBehaviour
 
         foreach (var dialogueEvent in dialogueEvents_afterCombine)
         {
-            yield return new WaitUntil(() => dialogueEvent.dialogueSystem.UpdateDialogue());
+            if (dialogueEvent.delay > 0)
+                yield return new WaitForSeconds(dialogueEvent.delay);
+            if (dialogueEvent.dialogueSystem != null)
+                yield return new WaitUntil(() => dialogueEvent.dialogueSystem.UpdateDialogue());
             foreach (var onDialobueEnd in dialogueEvent.OnDialoguesEnd)
             {
                 onDialobueEnd?.Invoke();
